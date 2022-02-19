@@ -4,7 +4,8 @@
 > But, it's easier and smarter to use software to help you code.
 > I use a program called "atom".
 > The only reason I use it is because its free, simple and it's the program I use at work.
-> [Download Atom]
+
+[Download Atom]
 
 -
 
