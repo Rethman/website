@@ -7,12 +7,7 @@
 
 [Download Atom]
 
--
-
-
-
-
 # License
 > MIT: Free Software, Hell Yeah!
 
-[Atom]: <https://atom.io/>
+[Download Atom]: <https://atom.io/>
